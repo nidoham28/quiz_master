@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Quiz Master"
 include(":app")
+include(":backend")
